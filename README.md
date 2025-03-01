@@ -26,9 +26,9 @@ pip install -r requirements.txt
 ```
 
 ## Usage
-1. Adding Proxies
+### 1. Adding Proxies
 Add your SOCKS5 proxies to proxies.txt, one per line.
-2. Running the Scraper
+### 2. Running the Scraper
 To extract only car makes and models:
 
 ```bash
